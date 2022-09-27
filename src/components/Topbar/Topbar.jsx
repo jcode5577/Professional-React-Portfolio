@@ -14,7 +14,7 @@ function Topbar() {
                     <div className="itemContainer">
                         <ul>
                             <li><a href="https://github.com/jcode5577" target="_blank" rel="noreferrer"><GitHubIcon className="icon"></GitHubIcon></a></li>
-                            <li><a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><LinkedInIcon className="icon"></LinkedInIcon></a></li>
+                            <li><a href="https://www.linkedin.com/in/john-hamilton-56360a251/" target="_blank" rel="noreferrer"><LinkedInIcon className="icon"></LinkedInIcon></a></li>
                         </ul>
                     </div>
                 </div>
