@@ -25,7 +25,7 @@
         id: 4,
         title: "This React portfolio",
         img: "/assets/my-portfolio.png",
-        url: "https://my-personal-portfolio5577.herokuapp.com/",
+        url: "https://john-hamilton-5577.herokuapp.com/",
     },
 
 
